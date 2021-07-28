@@ -12,7 +12,7 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/hanwckf/rt-n56u
+  REPO_URL: https://github.com/padavanonly/rt-n56u
 
 on:
   workflow_dispatch:
