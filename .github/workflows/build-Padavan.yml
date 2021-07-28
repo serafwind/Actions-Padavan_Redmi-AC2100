@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/MeIsReallyBa/rt-n56u
+  REPO_URL: https://github.com/hanwckf/rt-n56u
   UPLOAD_WETRANSFER: false
   UPLOAD_RELEASE: true
   Build_Targets: RM2100
