@@ -8,7 +8,7 @@ env:
   REPO_URL: https://github.com/padavanonly/rt-n56u
   UPLOAD_WETRANSFER: false
   UPLOAD_RELEASE: true
-  Build_Targets: ZTE_E8820S
+  Build_Targets: RM2100
   DIY_SH: diy.sh
   ENABLED_CFG: |
     CONFIG_FIRMWARE_ENABLE_IPV6
